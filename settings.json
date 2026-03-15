@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "IGNORE",
+    "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "peekaboo-1u6L.aternos.me",
     "port": 39922,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
